@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm a librarian who enjoys learning. I love geography, non-fiction literature, History and data visualization. I've been studying Data Analysis and here you will find the projects I've been working on.
+
+You can also find me on [Linked In](https://www.linkedin.com/in/paulina-mondragon/)
+
+
 <!--
 **paumondragon/paumondragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
