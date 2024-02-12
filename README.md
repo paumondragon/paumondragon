@@ -1,6 +1,6 @@
 ### ¡Hola!👋
 
-I'm a librarian who enjoys learning. I love data insights, its analysis and visualizations. Here you will find the projects I've been working on.
+I'm a data analyst and librarian who enjoys learning. I love data insights, its analysis and visualizations. Here you will find the projects I've been working on.
 
 You can also find me on [Linked In](https://www.linkedin.com/in/paulina-mondragon/)
 
