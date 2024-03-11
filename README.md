@@ -1,6 +1,6 @@
 ### ¡Hola!👋
 
-Soy una analista de datos y bibliotecaria que disfruta aprender. Me encantan los hallazgos, análisis y visualizaciones basados en datods. Aquí encontrarás algunos de los proyectos en los que he trabajado.
+Soy una analista de datos y bibliotecaria que disfruta aprender. Me encantan los hallazgos, análisis y visualizaciones basados en datos. Aquí encontrarás algunos de los proyectos en los que he trabajado.
 
 I'm a data analyst and librarian who enjoys learning. I love data insights, its analysis and visualizations. Here you will find some of the projects I've been working on.
 
