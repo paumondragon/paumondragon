@@ -12,4 +12,3 @@ My Stack:
 *  Tableau
 *  PowerBI
 
-Echa un ojo a mis poyectos / Take a look at my projects.
